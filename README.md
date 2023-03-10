@@ -1,3 +1,5 @@
+
+
 # Vision
 
 Reach your goals one step at a time!
@@ -13,11 +15,34 @@ Vision is a goal setting app that allows you to track and achieve your goals. By
 * Node.js and Expo
 * iOS Simulator
 
+
 ### Executing program
 
 ```
 npm run ios
 ```
+
+### Demos
+
+#### Adding Goals
+
+https://user-images.githubusercontent.com/34147515/224450491-6be8522c-f376-4909-a48e-e2349b2720bd.mp4
+
+
+#### Tracking Goals
+
+https://user-images.githubusercontent.com/34147515/224450028-f8cbae65-a85f-4be4-8565-8c902ec80546.MOV
+
+
+#### Edit/Deleting
+
+https://user-images.githubusercontent.com/34147515/224450575-8d4c54f8-7ebb-480e-b35c-45846f2acba5.MOV
+
+
+#### Generating Tasks
+
+https://user-images.githubusercontent.com/34147515/224450644-28c63bf0-f906-4359-8a03-256e8805380b.MOV
+
 
 
 ## Authors
